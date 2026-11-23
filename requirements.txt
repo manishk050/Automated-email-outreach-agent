@@ -1,0 +1,4 @@
+# Northbeam Outreach, demo requirements.
+# Only stdlib plus requests. No Gmail secrets here.
+# Python 3.10 or newer.
+requests>=2.31

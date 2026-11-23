@@ -1,0 +1,17 @@
+Subject: Quick question about {{business_name}}
+
+Hi,
+
+I found {{business_name}} in {{city}} and noticed there is no website for it yet.
+
+I run a small web design studio, and I offer a free website for businesses like yours. No cost to look at the idea, and no pressure if it is not a fit.
+
+Would you like me to send over a quick idea of what it could look like for a {{business_type}} in {{city}}?
+
+Thanks,
+Manish
+Northbeam Studios
+northbeamstudios.online
+
+---
+Template only. Demo file, no real prospect data.
